@@ -1,0 +1,1 @@
+# LaTeX Docker Image
